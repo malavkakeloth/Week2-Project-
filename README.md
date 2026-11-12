@@ -1,4 +1,4 @@
-<img width="906" height="434" alt="image" src="https://github.com/user-attachments/assets/093c886f-3d06-4d9a-84f7-bb0019d409d8" />
+
 # Week2-Project-
 Week-2 Project - Network Reconnaissance &amp; DNS Analysis using theHarvester, Wireshark and Nmap. Includes DNS analysis, packet capture and vulnerability scanning.
 # Week-2 Project - Network Recon & DNS Analysis
