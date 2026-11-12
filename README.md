@@ -1,3 +1,4 @@
+[WEEK2project.pdf](https://github.com/user-attachments/files/34758254/WEEK2project.pdf)
 
 # Week2-Project-
 Week-2 Project - Network Reconnaissance &amp; DNS Analysis using theHarvester, Wireshark and Nmap. Includes DNS analysis, packet capture and vulnerability scanning.
